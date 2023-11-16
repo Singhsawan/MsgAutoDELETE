@@ -1,2 +1,3 @@
 Pyrogram
 Tgcrypto
+aiohttp==3.8.1
